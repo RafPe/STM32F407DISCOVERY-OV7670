@@ -5,3 +5,5 @@
 * http://mcunovel.blogspot.nl/2013/07/get-image-from-ov7670-with-various.html
 * https://github.com/ComputerNerd/ov7670-simple/blob/master/main.c
 * https://e2e.ti.com/support/wireless_connectivity/simplelink_wifi_cc31xx_cc32xx/f/968/t/444787
+* https://thinksmallthings.wordpress.com/tag/ov7670/
+* http://athulyasimon.github.io/project_portfolio/projects/a_camera_pic/
