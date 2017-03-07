@@ -7,3 +7,4 @@
 * https://e2e.ti.com/support/wireless_connectivity/simplelink_wifi_cc31xx_cc32xx/f/968/t/444787
 * https://thinksmallthings.wordpress.com/tag/ov7670/
 * http://athulyasimon.github.io/project_portfolio/projects/a_camera_pic/
+* http://stackoverflow.com/questions/33990317/error-when-connect-stm32f4-with-ov7670
